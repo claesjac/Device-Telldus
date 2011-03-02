@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Telldus.xs
+t/Device-Telldus.t
+lib/Device/Telldus.pm

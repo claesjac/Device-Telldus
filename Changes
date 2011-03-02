@@ -1,0 +1,6 @@
+Revision history for Perl extension Device::Telldus.
+
+0.01  Tue Mar  1 12:58:25 2011
+	- original version; created by h2xs 1.23 with options
+		-A -b 5.8.0 Device::Telldus
+
